@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASTROBIT_BACKEND", "ASTROBIT_BACKEND\ASTROBIT_BACKEND.csproj", "{1CF451D5-BF76-440D-AFF6-8C347C7F7E2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CF451D5-BF76-440D-AFF6-8C347C7F7E2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CF451D5-BF76-440D-AFF6-8C347C7F7E2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CF451D5-BF76-440D-AFF6-8C347C7F7E2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CF451D5-BF76-440D-AFF6-8C347C7F7E2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B083B15-24FA-408F-9D8F-39FF57E71360}
+	EndGlobalSection
+EndGlobal
